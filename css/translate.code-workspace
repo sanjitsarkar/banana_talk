@@ -2,9 +2,12 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../dothraki_talk"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "dothraki_talk"
+		"liveServer.settings.multiRootWorkspaceName": "banana_talk"
 	}
 }
